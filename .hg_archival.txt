@@ -1,0 +1,5 @@
+repo: ba735a3dd98ac49fd3fbb60331ac8d2a7cf813fa
+node: 486a8c8640d282e4178e0f10c88087253c70c450
+branch: default
+latesttag: datacenter-transcoding-0.1
+latesttagdistance: 5
